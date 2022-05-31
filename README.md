@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MikeVeretennikov
-- 👀 I’m interested in it stuff 
-- 🌱 I’m currently learning back-end 
+- 👀 I’m interested in back-end development
+- 🌱 I’m currently learning back-end development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Misha Veretennikov in telegram
 
