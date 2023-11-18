@@ -2,7 +2,7 @@
 - 👀 I’m interested in back-end development
 - 🌱 I’m currently learning back-end development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Misha Veretennikov in telegram
+- 📫 How to reach me ... @mikeverete in telegram
 
 <!---
 MikeVeretennikov/MikeVeretennikov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
